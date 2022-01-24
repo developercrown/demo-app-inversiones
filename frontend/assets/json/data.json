@@ -1,0 +1,223 @@
+[
+    {
+        "id": 1,
+        "order": 6,
+        "nombre": "departamento de apoyo a estudiantes",
+        "tags": "tramites de becas##tag-separator##servicio social",
+        "icono": "person",
+        "catalog": false,
+        "personal": [
+            {
+                "id": 1,
+                "order": 1,
+                "mostrarCorreo": false,
+                "correo": "apoyoaestudiantes@upn164.edu.mx",
+                "nombre": "tpc. josé fernando urquiza",
+                "telefono": {
+                    "numero": "116-81-14",
+                    "ext": "118"
+                },
+                "profileImage": "https://images.unsplash.com/photo-1469827160215-9d29e96e72f4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1052&q=80",
+                "role": "responsable del departamento",
+                "description": "",
+                "icono": "home"
+            }
+        ],
+        "link": "apoyoaestudiantes"
+    },
+    {
+        "id": 2,
+        "order": 2,
+        "nombre": "departamento de servicios escolares",
+        "tags": "tramites de inscripcion##tag-separator##reinscripciones##tag-separator##solicitud de constancias academicas",
+        "icono": "person",
+        "catalog": false,
+        "personal": [
+            {
+                "id": 2,
+                "order": 1,
+                "mostrarCorreo": false,
+                "correo": "serviciosescolares@upn164.edu.mx",
+                "nombre": "ing. david galvez garduño",
+                "telefono": {
+                    "numero": "116-81-14",
+                    "ext": "117"
+                },
+                "profileImage": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+                "role": "responsable del departamento",
+                "description": "",
+                "icono": "home"
+            }
+        ],
+        "link": "serviciosescolares"
+    },
+    {
+        "id": 3,
+        "order": 3,
+        "nombre": "departamento de finanzas",
+        "tags": "pagos de reinscripción##tag-separator##movimientos financieros",
+        "icono": "person",
+        "catalog": false,
+        "personal": [
+            {
+                "id": 3,
+                "order": 1,
+                "mostrarCorreo": false,
+                "correo": "finanzas@upn164.edu.mx",
+                "nombre": "lic. rocio salgado alvarado",
+                "telefono": {
+                    "numero": "116-81-14",
+                    "ext": "114"
+                },
+                "profileImage": "https://images.unsplash.com/photo-1579758258316-57081bac8ea8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=968&q=80",
+                "role": "responsable del departamento",
+                "description": "",
+                "icono": "home"
+            }
+        ],
+        "link": "finanzas"
+    },
+    {
+        "id": 4,
+        "order": 5,
+        "nombre": "departamento administrativo general",
+        "tags": "operaciones de la unidad##tag-separator##administración en general##tag-separator##informes de la oferta educativa",
+        "icono": "person",
+        "catalog": false,
+        "personal": [
+            {
+                "id": 4,
+                "order": 1,
+                "mostrarCorreo": true,
+                "correo": "arodriguez@upn164.edu.mx",
+                "nombre": "lic. alejandro rodriguez reskala",
+                "telefono": {
+                    "numero": "116-81-14",
+                    "ext": "103"
+                },
+                "profileImage": "https://images.unsplash.com/photo-1523287562758-66c7fc58967f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+                "role": "responsable del área",
+                "description": "",
+                "icono": "home"
+            }
+        ],
+        "link": "administrativo"
+    },
+    {
+        "id": 5,
+        "order": 4,
+        "nombre": "departamento de titulación",
+        "tags": "titulos##tag-separator##tramites de titulación##tag-separator##protocolos de titulaciones",
+        "icono": "person",
+        "catalog": false,
+        "personal": [
+            {
+                "id": 5,
+                "order": 1,
+                "mostrarCorreo": true,
+                "correo": "titulacion@upn164.edu.mx",
+                "nombre": "lic. jahel fresnedo",
+                "telefono": {
+                    "numero": "116-81-14",
+                    "ext": "108"
+                },
+                "profileImage": "https://images.unsplash.com/photo-1556762226-f59720fd8b49?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+                "role": "responsable del departamento",
+                "description": "",
+                "icono": "home"
+            }
+        ],
+        "link": "titulacion"
+    },
+    {
+        "id": 6,
+        "order": 1,
+        "nombre": "departamento de sistemas y tecnologías computacionales",
+        "tags": "sistemas##tag-separator##tecnologias##tag-separator##plataformas virtuales##tag-separator##servicios digitales##tag-separator##sia",
+        "icono": "person",
+        "catalog": false,
+        "personal": [
+            {
+                "id": 6,
+                "order": 2,
+                "mostrarCorreo": false,
+                "correo": "isc.corona@upn164.edu.mx",
+                "nombre": "ing. rené corona valdes",
+                "telefono": {
+                    "numero": "116-81-14",
+                    "ext": "120"
+                },
+                "profileImage": "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+                "role": "responsable del departamento",
+                "description": "ingeniero de sistemas, administrador de sistemas y plataformas & soporte tecnico en general",
+                "icono": "home"
+            },
+            {
+                "id": 7,
+                "order": 1,
+                "mostrarCorreo": false,
+                "correo": "sistemas@upn164.edu.mx",
+                "nombre": "ing. guadalupe del carmen castillo hernandez",
+                "telefono": {
+                    "numero": "116-81-14",
+                    "ext": "120"
+                },
+                "profileImage": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1052&q=80",
+                "role": "administradora principal de plataformas digitales",
+                "description": "desarrollo de proyectos & soporte tecnico",
+                "icono": "home"
+            },
+            {
+                "id": 8,
+                "order": 3,
+                "mostrarCorreo": false,
+                "correo": "isc.rosalba@upn164.edu.mx",
+                "nombre": "ing. rosalba ixtlahuac santoyo",
+                "telefono": {
+                    "numero": "116-81-14",
+                    "ext": "120"
+                },
+                "profileImage": "https://images.unsplash.com/photo-1423666639041-f56000c27a9a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1053&q=80",
+                "role": "soporte en plataformas",
+                "description": "",
+                "icono": "home"
+            }
+        ],
+        "link": "sistemas"
+    },
+    {
+        "id": 7,
+        "order": 2,
+        "nombre": "Personal Academico",
+        "tags": "profesores##tag-separator##asesores##tag-separator##linea##tag-separator##mixta##tag-separator##escolarizado",
+        "icono": "import_contacts",
+        "catalog": true,
+        "personal": [
+            {
+                "id": 9,
+                "order": 1,
+                "mostrarCorreo": false,
+                "correo": "subdireccion@upn164.edu.mx",
+                "nombre": "Gabriel Olayo Román",
+                "telefono": {
+                    "numero": "116-81-14",
+                    "ext": "109"
+                },
+                "profileImage": "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+                "role": "Subdirector del plantel",
+                "description": "Coordinador de LP y profesor del área",
+                "icono": "layers"
+            }
+        ],
+        "link": "academicos"
+    }, {
+        "id": 8,
+        "order": 8,
+        "nombre": "Recursos Humanos",
+        "tags": "tramites y contratos",
+        "icono": "person",
+        "catalog": false,
+        "personal": [],
+        "link": "academicos"
+    }
+]
